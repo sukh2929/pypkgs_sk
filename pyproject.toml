@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pypkgs_sk_0.1.0"
+name = "pypkgs_sk"
 version = "0.1.0"
 description = "Package creation for DSCI 524"
 authors = ["Sukhdeep kaur <sukhdeep_2929@yahoo.com>"]
