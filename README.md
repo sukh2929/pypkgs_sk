@@ -1,4 +1,4 @@
-# pypkgs_sk 
+# pypkgs-sk 0.1.0 
 
 ![](https://github.com/sukh2929/pypkgs_sk_0.1.0/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/sukh2929/pypkgs_sk_0.1.0/branch/main/graph/badge.svg)](https://codecov.io/gh/sukh2929/pypkgs_sk_0.1.0) ![Release](https://github.com/sukh2929/pypkgs_sk_0.1.0/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_sk_0.1.0/badge/?version=latest)](https://pypkgs_sk_0.1.0.readthedocs.io/en/latest/?badge=latest)
 
