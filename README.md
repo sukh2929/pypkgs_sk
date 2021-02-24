@@ -1,13 +1,13 @@
-# pypkgs-sk 0.1.0 
+# pypkgs-sk
 
-![](https://github.com/sukh2929/pypkgs_sk_0.1.0/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/sukh2929/pypkgs_sk_0.1.0/branch/main/graph/badge.svg)](https://codecov.io/gh/sukh2929/pypkgs_sk_0.1.0) ![Release](https://github.com/sukh2929/pypkgs_sk_0.1.0/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_sk_0.1.0/badge/?version=latest)](https://pypkgs_sk_0.1.0.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/sukh2929/pypkgs_sk/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/sukh2929/pypkgs_sk/branch/main/graph/badge.svg)](https://codecov.io/gh/sukh2929/pypkgs_sk) ![Release](https://github.com/sukh2929/pypkgs_sk/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_sk/badge/?version=latest)](https://pypkgs_sk.readthedocs.io/en/latest/?badge=latest)
 
 Toy package for DSCI 524
 
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ pypkgs_sk_0.1.0
+$ pip install -i https://test.pypi.org/simple/ pypkgs_sk
 ```
 
 ## Features
@@ -24,11 +24,11 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_sk_0.1.0
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://pypkgs_sk_0.1.0.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://pypkgs_sk.readthedocs.io/en/latest/
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/sukh2929/pypkgs_sk_0.1.0/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/sukh2929/pypkgs_sk/graphs/contributors).
 
 ### Credits
 
